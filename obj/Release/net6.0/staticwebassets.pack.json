@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Qhluxury.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Qhluxury.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\css\\view.css",
+      "PackagePath": "staticwebassets\\css\\view.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\Nhanbanner.png",
+      "PackagePath": "staticwebassets\\image\\Nhanbanner.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh1.png",
+      "PackagePath": "staticwebassets\\image\\anh1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh10.png",
+      "PackagePath": "staticwebassets\\image\\anh10.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh11.png",
+      "PackagePath": "staticwebassets\\image\\anh11.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh12.png",
+      "PackagePath": "staticwebassets\\image\\anh12.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh13.png",
+      "PackagePath": "staticwebassets\\image\\anh13.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh14.png",
+      "PackagePath": "staticwebassets\\image\\anh14.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh15.png",
+      "PackagePath": "staticwebassets\\image\\anh15.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh16.png",
+      "PackagePath": "staticwebassets\\image\\anh16.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh17.png",
+      "PackagePath": "staticwebassets\\image\\anh17.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh18.png",
+      "PackagePath": "staticwebassets\\image\\anh18.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh19.png",
+      "PackagePath": "staticwebassets\\image\\anh19.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh2.png",
+      "PackagePath": "staticwebassets\\image\\anh2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh20.png",
+      "PackagePath": "staticwebassets\\image\\anh20.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh21.png",
+      "PackagePath": "staticwebassets\\image\\anh21.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh22.png",
+      "PackagePath": "staticwebassets\\image\\anh22.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh3.png",
+      "PackagePath": "staticwebassets\\image\\anh3.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh4.png",
+      "PackagePath": "staticwebassets\\image\\anh4.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh5.png",
+      "PackagePath": "staticwebassets\\image\\anh5.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh6.png",
+      "PackagePath": "staticwebassets\\image\\anh6.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh7.png",
+      "PackagePath": "staticwebassets\\image\\anh7.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh8.png",
+      "PackagePath": "staticwebassets\\image\\anh8.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\anh9.png",
+      "PackagePath": "staticwebassets\\image\\anh9.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\banner1.png",
+      "PackagePath": "staticwebassets\\image\\banner1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\banner2.png",
+      "PackagePath": "staticwebassets\\image\\banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\cskh.png",
+      "PackagePath": "staticwebassets\\image\\cskh.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\dhbaner.png",
+      "PackagePath": "staticwebassets\\image\\dhbaner.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\dongho.png",
+      "PackagePath": "staticwebassets\\image\\dongho.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\giohan.png",
+      "PackagePath": "staticwebassets\\image\\giohan.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\lichsu.png",
+      "PackagePath": "staticwebassets\\image\\lichsu.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\logo1.png",
+      "PackagePath": "staticwebassets\\image\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\logo2.png",
+      "PackagePath": "staticwebassets\\image\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\image\\map.png",
+      "PackagePath": "staticwebassets\\image\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\OneDrive\\Tài liệu\\1.ASP\\Qhluxury\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Qhluxury.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Qhluxury.props",
+      "PackagePath": "build\\Qhluxury.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Qhluxury.props",
+      "PackagePath": "buildMultiTargeting\\Qhluxury.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Qhluxury.props",
+      "PackagePath": "buildTransitive\\Qhluxury.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

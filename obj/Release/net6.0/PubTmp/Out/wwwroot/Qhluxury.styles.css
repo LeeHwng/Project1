@@ -1,0 +1,309 @@
+/* _content/Qhluxury/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+.container[b-oy6g8mn7vq] {
+    width: 100%;
+}
+
+a.navbar-brand[b-oy6g8mn7vq] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-oy6g8mn7vq] {
+    color: #0077cc;
+}
+
+.btn-primary[b-oy6g8mn7vq] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-oy6g8mn7vq], .nav-pills .show > .nav-link[b-oy6g8mn7vq] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-oy6g8mn7vq] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-oy6g8mn7vq] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-oy6g8mn7vq] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-oy6g8mn7vq] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-oy6g8mn7vq] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.tutorial[b-oy6g8mn7vq] {
+    width: 80%;
+    margin: 0% auto 0 100px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    background-color: #f9f9f9;
+    max-width: 1000px;
+    /*max-width: 1300px;*/
+    border-radius: 35px;
+    padding-left: 70px;
+}
+
+    .tutorial ul[b-oy6g8mn7vq] {
+        font-size: 0;
+        list-style-type: none;
+    }
+
+        .tutorial ul li[b-oy6g8mn7vq] {
+            font-family: "Open Sans", sans-serif;
+            font-size: 1rem;
+            font-weight: 400;
+            display: inline-block;
+            padding: 13px 80px;
+            position: relative;
+        }
+
+            .tutorial ul li ul[b-oy6g8mn7vq] {
+                display: none;
+            }
+
+                .tutorial ul li ul li[b-oy6g8mn7vq] {
+                    text-align: center;
+                }
+
+            .tutorial ul li:hover[b-oy6g8mn7vq] {
+                cursor: pointer;
+                background-color: #f2f2f2;
+            }
+
+                .tutorial ul li:hover ul[b-oy6g8mn7vq] {
+                    display: block;
+                    width: 250px;
+                    left: 0;
+                    position: absolute;
+                    background-color: #f2f2f2;
+                }
+
+                    .tutorial ul li:hover ul li[b-oy6g8mn7vq] {
+                        padding: 5px;
+                        margin: 5px;
+                        display: block;
+                    }
+
+                        .tutorial ul li:hover ul li:hover[b-oy6g8mn7vq] {
+                            width: 97%;
+                            height: 100%;
+                            margin-right: 50px;
+                            background-color: lightgray;
+                        }
+
+.s1[b-oy6g8mn7vq] {
+    width: 100%;
+    height: 70px;
+    position: relative;
+}
+
+#slideshow[b-oy6g8mn7vq] {
+    overflow: hidden;
+    height: 451px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.slide-wrapper[b-oy6g8mn7vq] {
+    width: 2912px;
+    -webkit-animation: slide 14s ease infinite;
+}
+
+.slide[b-oy6g8mn7vq] {
+    float: left;
+    height: 451px;
+    width: 800px;
+}
+
+
+@-webkit-keyframes slide {
+    20% {
+        margin-left: 0px;
+    }
+
+    30% {
+        margin-left: -800px;
+    }
+
+    50% {
+        margin-left: -800px;
+    }
+
+    60% {
+        margin-left: 0px;
+    }
+
+    80% {
+        margin-left: 0px;
+    }
+}
+
+
+#logo1[b-oy6g8mn7vq] {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    left: 890px;
+    top: -5px;
+}
+
+#logo2[b-oy6g8mn7vq] {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    left: 950px;
+    top: 5px;
+}
+
+#logo3[b-oy6g8mn7vq] {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 117px;
+    top: 15px;
+}
+
+#logo4[b-oy6g8mn7vq] {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 280px;
+    top: 18px;
+}
+
+#logo5[b-oy6g8mn7vq] {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 330px;
+    top: 18px;
+}
+
+#logo6[b-oy6g8mn7vq] {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 117px;
+    top: 18px;
+}
+
+#giohang[b-oy6g8mn7vq] {
+    position: absolute;
+    right: 150px;
+}
+
+#lsdh[b-oy6g8mn7vq] {
+    position: absolute;
+    right: 310px;
+}
+
+#dc[b-oy6g8mn7vq] {
+    position: absolute;
+    left: 150px;
+}
+
+#cskh[b-oy6g8mn7vq] {
+    position: absolute;
+    left: 360px;
+}
+
+ul[b-oy6g8mn7vq] {
+    list-style: none;
+}
+
+a[b-oy6g8mn7vq] {
+    text-decoration: none;
+}
+
+#wrapper[b-oy6g8mn7vq] {
+    width: 960px;
+    margin: 0px auto;
+}
+
+ul#main-menu[b-oy6g8mn7vq] {
+    display: flex;
+    height: 100%;
+    background: orange;
+}
+
+    ul#main-menu a[b-oy6g8mn7vq] {
+        padding: 20px 10px;
+        display: block;
+        color: #ffffff;
+    }
+
+    ul#main-menu li:hover a[b-oy6g8mn7vq] {
+        color: #4f4242;
+    }
+
+
+.search[b-oy6g8mn7vq] {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 50px;
+    width:20%;
+    background-color: #fff;
+    border-radius: 40px;
+    padding: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.search_input[b-oy6g8mn7vq] {
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    margin-top: 5px;
+    caret-color: transparent;
+    line-height: 20px;
+    transition: width 0.4s linear;
+}
+ 
+.search .search_input[b-oy6g8mn7vq] {
+    padding: 0 10px;
+    width: 300px;
+    caret-color: red;
+    transition: width 0.4s linear;
+}
+
+.search:hover > .search_icon[b-oy6g8mn7vq] {
+    background: orange;
+    color: #fff;
+}
+
+.search_icon[b-oy6g8mn7vq] {
+    height: 30px;
+    width: 30px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+    background-color: black;
+}
+
+a:link[b-oy6g8mn7vq] {
+    text-decoration: none;
+} 

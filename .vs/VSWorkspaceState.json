@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Views",
+    "\\Views\\Hanghoas",
+    "\\Views\\Shared",
+    "\\Views\\View",
+    "\\wwwroot",
+    "\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\Views\\View\\viewgiohang.cshtml",
+  "PreviewInSolutionExplorer": false
+}

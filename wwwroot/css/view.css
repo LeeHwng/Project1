@@ -1,0 +1,105 @@
+﻿.aaaa{
+    margin-top:50px;
+    padding:70px;
+    background-color:lightgray;
+}
+.nut {
+    padding: 15px 25px;
+    background-color: #FFFFE0;
+    border-radius: 20px;
+    border: 1px solid red;
+    text-align: center;
+    margin-top: 50px;
+}
+    .nut:hover {
+        border: 1px solid #ffcaa6;
+        background-color: #FFA500;
+    }
+.giohang {
+    text-align: center;
+}
+
+#slideshow {
+    display: none;
+}
+.card {
+    width: 290px;
+    height: 420px;
+    padding: .8em;
+    margin:15px;
+    background: #f5f5f5;
+    position: relative;
+    overflow: visible;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.22), 0 1px 2px rgba(0,0,0,0.34);
+    float:left;
+    border-radius:10px;
+}
+#anhsp {
+    margin-top: -50px;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+.card-img {
+    background-color: #FFA500;
+    height: 40%;
+    width: 100%;
+    border-radius: .5rem;
+    transition: .3s ease;
+}
+
+.card-info {
+    padding-top: 10%;
+}
+
+svg {
+    width: 20px;
+    height: 20px;
+}
+
+.card-footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+}
+
+
+.text-title {
+    font-weight: 900;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.text-body {
+    font-size: .9em;
+    padding-bottom: 10px;
+}
+
+
+.card-button {
+    border: 1px solid #252525;
+    display: flex;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: .3s ease-in-out;
+}
+
+
+.card-img:hover {
+    transform: translateY(-25%);
+    box-shadow: rgba(226, 196, 63, 0.3) 0px 13px 47px -5px, rgba(180, 71, 71, 0.4) 0px 8px 16px -8px;
+}
+
+.card-button:hover {
+    border: 1px solid #ffcaa6;
+    background-color: #FFA500;
+}
+.banner {
+    text-align: center;
+    margin-bottom: 50px;
+}
+

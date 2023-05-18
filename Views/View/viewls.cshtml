@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Lịch sử đơn hàng";
+}
+@model IEnumerable<Qhluxury.Models.Hanghoa>
+<link rel="stylesheet" href="~/css/view.css" asp-append-version="true" />
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="giohang">
+    <div class="aaaa">
+        <p>Bạn chưa mua đơn hàng nào</p>
+    </div>
+    <a asp-area="" asp-controller="Home" asp-action="Index">
+    <input src="https://localhost:7081/" class="nut" type="button" value="Tiếp tục mua sắm" />
+    </a>
+</div>
